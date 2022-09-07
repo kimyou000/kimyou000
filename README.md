@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#I'm kimyou000
-#I am a student.
-#I am studying computer.
+I'm kimyou000
+I am a student.
+I am studying computer.
