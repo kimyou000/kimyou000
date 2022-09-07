@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm kimyou000
+I am a student
+My hobbies are playing computer, exercising and playing games.
+I am studying computer.
